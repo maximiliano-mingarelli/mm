@@ -15,7 +15,6 @@ com\portfolio\mm\Security\Controller\AuthController.class
 com\portfolio\mm\Service\Shys.class
 com\portfolio\mm\Entity\Experiencia.class
 com\portfolio\mm\Entity\Persona.class
-.netbeans_automatic_build
 com\portfolio\mm\Dto\dtoExperiencia.class
 com\portfolio\mm\Dto\dtoHys.class
 com\portfolio\mm\Security\Dto\LoginUsuario.class
